@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CommentedPost
+comment1.params=author
+comment1.target=CommentedPost(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getLikes()
+comment3.params=
+comment3.target=void\ like()
+comment3.text=public\ String\ getComments(){\r\n\ \ \ \ \ \ \ \ //displayComments\ \=\ this.comments;\r\n\ \ \ \ \ \ \ \ \r\n}
+comment4.params=
+comment4.target=void\ unlike()
+comment5.params=text
+comment5.target=void\ addComment(java.lang.String)
+comment6.params=
+comment6.target=void\ display()
+numComments=7
